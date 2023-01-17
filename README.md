@@ -8,9 +8,9 @@ return random last names.
 
   //provides first, middle, and last names.
 
-  console.log(random.first())
-  console.log(random.middle())
-  console.log(random.last())
+  console.log(random.first());
+  console.log(random.middle());
+  console.log(random.last());
 
   //also, random place name!
   console.log(random.place())
